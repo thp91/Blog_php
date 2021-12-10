@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.article{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.nav{
+    margin: 10px;
+}
+
+.nav a{
+    color: black;
+    text-decoration: none;
+    border: solid black 1px;
+    padding: 5px;
+    border-radius: 10px;
+}
